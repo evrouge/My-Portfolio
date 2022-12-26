@@ -1,0 +1,12 @@
+h1,
+h2 {
+    color: turquoise;
+}
+
+.title {
+    text-decoration: underline overline;
+}
+
+.nav-item {
+    color: aquamarine;
+}

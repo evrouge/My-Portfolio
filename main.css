@@ -11,6 +11,7 @@ h2 {
     color: aquamarine;
 }
 
+
 /* bootstrap timeline css */
 .timeline {
     border-left: 1px solid hsl(0, 0%, 90%);
@@ -35,4 +36,22 @@ h2 {
     height: 11px;
     width: 11px;
     content: "";
+}
+
+
+.technical-skills {
+    height: 10%;
+    width: 10%;
+    display: grid;
+
+}
+
+.skill {
+    display: inline-block;
+    /* width: calc(3/3) */
+}
+
+
+body {
+    background: darkgrey;
 }
